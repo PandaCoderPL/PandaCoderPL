@@ -8,6 +8,7 @@ I'm PandaCoderPL, translator and coder from Poland. If you would like to get you
 
 * [Anonymous Messenger](https://anonymousmessenger.ly/) - request link using other contact option.
 * [Briar](https://briarproject.org/) - request link using other contact option.
+* [Jami](https://jami.net/) - pandacoderpl (25f1077400a256528ed9f03e6bfef26fdb721218)
 * [Lemmy](https://lemmy.ml/) - [@PandaCoderPL](https://lemmy.ml/u/PandaCoderPL)
 * [Mastodon](https://mastodon.technology/) - [@PandaCoderPL](https://mastodon.technology/@PandaCoderPL)
 * [Matrix](https://matrix.org/) - [@pandacoderpl:matrix.org](https://matrix.to/#/@pandacoderpl:matrix.org)
